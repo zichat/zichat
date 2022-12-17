@@ -3,7 +3,7 @@
 - 📫 How to reach me ...
 
 
-[LinkedIn](www.linkedin.com/in/zichat-ezekiel)
+[LinkedIn](https://www.linkedin.com/in/zichat-ezekiel)
 
 Email : zichatezekiel@gmail.com
 
