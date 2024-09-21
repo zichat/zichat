@@ -2,8 +2,9 @@
 
 - 📫 How to reach me ...
 
-  Email : zichatezekiel@gmail.com
   [LinkedIn](https://www.linkedin.com/in/zichatezekiel)
+  Email : zichatezekiel@gmail.com
+  
 
 <!---
 zichat/zichat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
