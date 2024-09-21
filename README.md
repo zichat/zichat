@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @zichat a React Native Mobile Developer 
-- 👀 I love solving real life problems using code 
-- 📫 How to reach me ...
+- Innovating the future of materials discovery and design | Machine learning and AI | FAMEAIS
 
+- 📫 How to reach me ...
 
 [LinkedIn](https://www.linkedin.com/in/zichat-ezekiel)
 
