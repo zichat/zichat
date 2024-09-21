@@ -2,7 +2,6 @@
 
 - 📫 How to reach me ...
 
-  [LinkedIn](https://www.linkedin.com/in/zichatezekiel)
   Email : zichatezekiel@gmail.com
   
 
