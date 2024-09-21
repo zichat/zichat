@@ -1,8 +1,8 @@
-- Innovating the future of materials discovery and design | Machine learning and AI | FAMEAIS
+- Hi, I am a graduate student with a solid academic foundation in Materials Science and Engineering. Currently harnessing the power of machine learning for materials discovery.
 
 - 📫 How to reach me ...
 
-[LinkedIn](https://www.linkedin.com/in/zichat-ezekiel)
+[LinkedIn](https://www.linkedin.com/in/zichatezekiel)
 
 Email : zichatezekiel@gmail.com
 
